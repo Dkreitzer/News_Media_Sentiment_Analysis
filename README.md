@@ -1,2 +1,12 @@
-# Sentiment_Analysis
-Homework 7
+# News Media Tweets Sentiment Analysis 
+
+Using a Jupyter Notebook, this program will perform a Vader Sentimenet Analysis on the 100 most recent tweets from a list of target user accounts.
+
+This notebook specifically queries the most recent tweets from: BBC, CBS, CNN, FOX, and the NY Times.
+
+For more information on Vader Sentiment Analysis, you can visit: https://github.com/cjhutto/vaderSentiment.
+
+"Vader (Valence, Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains" (summary from MIT github page).
+
+The Sentiment Analysis is then visualized using matplotlib.
+![scatter](img/Sentiment_Analysis_Screenshot.png)
